@@ -53,3 +53,19 @@ li a:hover {
   background: rgb(199, 147, 70);
   color: black;
 }
+#ferrari {
+  width: 15%;
+}
+.caixaferrari {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 90%;
+  height: 140px;
+  background: 140px;
+  border-color: red;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
