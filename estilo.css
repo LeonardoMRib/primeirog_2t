@@ -70,7 +70,7 @@ li a:hover {
 .conteudo {
   position: absolute;
   top: 40px;
-  width: 100%;
+  min-width: 100%;
   color: antiquewhite;
 }
 
@@ -78,7 +78,7 @@ li a:hover {
   position: absolute;
   text-align: center;
   top: 50px;
-  width: 100%;
+  min-width: 100%;
   color:yellow;
 }
 
@@ -86,10 +86,16 @@ li a:hover {
   position: fixed;
   text-align: center;
   top: 150px;
-  width: 100%;
-  background-color:green;
+  min-width: 100%;
 
 }
 
+.conteudo4 {
+  position: fixed;
+  text-align: center;
+  top: 300px;
+  min-height: 100%;
+
+}
 
 
